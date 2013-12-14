@@ -18,3 +18,21 @@ app.controller('OneCMACtrl',function($scope)
 {
 	
 });
+
+app.controller('AppsListController',function($scope)
+{
+	$scope.appsList = [{ name : 'Apply Birth Certificate' , department: 'Sanitation'},
+		{	name : 'Apply Death Certificate' },
+		{	name : 'Book Marriage Hall' },
+		{	name : 'Book Mortuary' },
+		{	name : 'Important Announcements',department: 'General'},
+		{name:'Govt. Orders'},
+		{name:'New schemes'},
+		{name:'Lodge a Complaint'},
+		{name: 'City Details'},
+		{name:'Ward Details'},
+		{name:'Events & Programms by CMA'}
+
+	];
+	
+});
