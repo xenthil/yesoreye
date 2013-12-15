@@ -23,7 +23,7 @@
 		  <ul id="appsResultList" class="span12">
 			  <li class="span4" ng-repeat='app in appsList | filter:search'>
 				  <div class="thumbnail">
-				  	<b>{{ app.name }}</b>
+				  	<b> <a href="#/app/{{app.appid}}"> {{ app.name }}</a></b>
 				  </div>
 			  </li>
 		  </ul>

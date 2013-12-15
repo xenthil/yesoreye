@@ -1,0 +1,19 @@
+{ name : 'Apply Birth Certificate'},
+		{	name : 'Enter New Baby Details' , appid: 'newbaby'},		
+		{	name : 'Search Baby Details' , appid: 'searchbaby'},		
+		{	name : 'Enter New Conceived Mother Details' , appid: 'newmother'},
+		{	name : 'Apply Death Certificate' },
+		{	name : 'Book Marriage Hall' },
+		{	name : 'Book Mortuary' },
+		{	name : 'Important Announcements',department: 'General'},
+		{name:'Govt. Orders'},
+		{name:'New schemes'},
+		{name:'Lodge a Complaint'},
+		{name: 'City Details'},
+		{name:'Ward Details'},
+		{name:'Burial Ground Booking'},
+		{name:'Freezer Box booking'},
+		{name:'Ward Details'},
+		{name:'Events & Programms by CMA'}
+
+	
